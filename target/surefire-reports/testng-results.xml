@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.darden.qa.testcases.DardenTest" duration-ms="35849" started-at="2022-06-24T08:02:32Z" finished-at="2022-06-24T08:03:08Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="35849" started-at="2022-06-24T08:02:32Z" finished-at="2022-06-24T08:03:08Z">
+      <class name="com.darden.qa.testcases.DardenTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.darden.qa.testcases.DardenTest@780cb77]" name="setup" is-config="true" duration-ms="15651" started-at="2022-06-24T08:02:32Z" finished-at="2022-06-24T08:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="locationSelectionTest()[pri:0, instance:com.darden.qa.testcases.DardenTest@780cb77]" name="locationSelectionTest" duration-ms="20093" started-at="2022-06-24T08:02:47Z" finished-at="2022-06-24T08:03:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locationSelectionTest -->
+      </class> <!-- com.darden.qa.testcases.DardenTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.darden.qa.testcases.DardenTest -->
+</testng-results>
